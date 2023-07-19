@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "329531019018",
+    "project_id": "smartflashcard-7a213",
+    "storage_bucket": "smartflashcard-7a213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329531019018:android:0f018e79c88b6696ef34f3",
+        "android_client_info": {
+          "package_name": "com.iagocarvalho.smartflash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329531019018-tvaakh475q3hp29qmh4lm0g887qbps27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iagocarvalho.smartflash",
+            "certificate_hash": "6fee03ca0cc8f66d4c4406dcc2778b01f137d0b1"
+          }
+        },
+        {
+          "client_id": "329531019018-aa2kjjt8mrvqbd6nqike2fi7pbladjlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJIuqvJSNHcPrp7fqDFhqbcox88ImZXtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329531019018-aa2kjjt8mrvqbd6nqike2fi7pbladjlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
