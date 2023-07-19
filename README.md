@@ -15,7 +15,7 @@ Philipp Lackner video sobre google login -> https://lnkd.in/ecD4kR_t
 mas o melhor de todos mesmo de verdade -> https://lnkd.in/eWjV4Erp
 a doc do faribase e muuuito boa e completa
 
-##Atenção o arqui Google.json, nescessario para utilziar as dependendias do firebase, foi retirado, por motivos de seguraçã para não terem acesso a minha conta ^^ 
+### Atenção o arqui Google.json, nescessario para utilziar as dependendias do firebase, foi retirado, por motivos de seguraçã para não terem acesso a minha conta ^^ 
 mas para baixar o projeto e executar, apenas e nescessario incluir o seu arquivo google.json e o apo roda normalmente 
 Caso não saiba como realizar essa etapa -> Sigua este codelab -> https://firebase.google.com/docs/android/setup?hl=pt-br   
 
